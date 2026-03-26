@@ -1,4 +1,19 @@
 #!/usr/bin/env python3
+"""
+Build the standalone v3 low-confidence rescue dataset for image memory anchors.
+
+This script takes the manually selected turn-3 image candidates that were
+rescued from the earlier low-confidence pool, copies their preview images into
+the dedicated `image_lowconf_rescue_batch/` folder, writes the final
+`multimodal_memory_anchor_v3_lowconf_rescue.json`, and packages the json plus
+images into a zip file. It also emits a small stats json summarizing the replay
+pool and the records that were kept.
+
+中文说明：
+这个脚本用于构建独立的 v3 低置信样本“二次抢救”数据集。它会把人工挑出的
+turn-3 图片候选复制到专用图片目录，生成新的 json、zip 和统计文件，确保这批
+新数据与旧版本数据集完全隔离。
+"""
 
 import json
 import shutil
@@ -6,7 +21,7 @@ import zipfile
 from pathlib import Path
 
 
-BASE = Path("/home/wangy/bucket_v2")
+BASE = Path(__file__).resolve().parent.parent
 PREVIEW_DIR = Path("/tmp/lowrescue_preview")
 OUT_DIR = BASE / "image_lowconf_rescue_batch"
 OUT_JSON = BASE / "multimodal_memory_anchor_v3_lowconf_rescue.json"
@@ -132,10 +147,6 @@ def get_turns(dialogue):
     return dialogue.get("dialogue") or dialogue.get("turns") or []
 
 
-def get_text(turn):
-    return turn.get("text") or turn.get("utterance") or turn.get("dialogue") or ""
-
-
 def get_images(turn):
     return turn.get("image") or turn.get("images") or turn.get("shared_image") or []
 
@@ -207,8 +218,13 @@ def main():
     prior_stats = json.load(open(BASE / "multimodal_image_run_stats.json"))
     prior_lowconf_logged = prior_stats["stats"]["skip_no_high_confidence_rule"]
 
-    replay_stats = {"turn3_image_candidates": 0, "already_done": 0, "meta_or_textual": 0, "multi_subject": 0, "lowconf_replay": 0}
-    replay_low_ids = set()
+    replay_stats = {
+        "turn3_image_candidates": 0,
+        "already_done": 0,
+        "meta_or_textual": 0,
+        "multi_subject": 0,
+        "lowconf_replay": 0,
+    }
     for item in medium_dialogues:
         turns = get_turns(item)
         if len(turns) < 3:
@@ -220,8 +236,6 @@ def main():
         if not label:
             continue
         replay_stats[label] += 1
-        if label == "lowconf_replay":
-            replay_low_ids.add(item["dialogue_id"])
 
     if OUT_DIR.exists():
         shutil.rmtree(OUT_DIR)
