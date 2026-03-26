@@ -1,0 +1,442 @@
+[
+  {
+    "dialogue_id": "bst:2650",
+    "anchor_type": "image",
+    "anchor_category": "event_experience",
+    "answer": "pitching",
+    "anchor_turns": [
+      {
+        "utterance": "Here is the action shot I meant.",
+        "speaker": "Abby",
+        "shared_image": [
+          "image_lowconf_rescue_batch/bst_2650_anchor.jpg"
+        ],
+        "description": "A baseball pitcher throwing from the mound during a game."
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "utterance": "Team sports photos usually capture one motion at the center.",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "utterance": "Was he batting?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "query_turns": [
+      {
+        "utterance": "What activity was happening in the earlier image?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "dialogue_id": "bst:4734",
+    "anchor_type": "image",
+    "anchor_category": "location",
+    "answer": "trail",
+    "anchor_turns": [
+      {
+        "utterance": "Take a look at this one.",
+        "speaker": "Raeleigh",
+        "shared_image": [
+          "image_lowconf_rescue_batch/bst_4734_anchor.jpg"
+        ],
+        "description": "A dirt hiking trail winding through a dense green forest."
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "utterance": "I like places where you can walk under lots of trees.",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "utterance": "Was it a riverbank?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "query_turns": [
+      {
+        "utterance": "What kind of place was shown in the earlier image?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "dialogue_id": "bst:56",
+    "anchor_type": "image",
+    "anchor_category": "object_attribute",
+    "answer": "salad",
+    "anchor_turns": [
+      {
+        "utterance": "Here is one I had in mind.",
+        "speaker": "Marriah",
+        "shared_image": [
+          "image_lowconf_rescue_batch/bst_56_anchor.jpg"
+        ],
+        "description": "A glass bowl filled with a colorful mixed salad."
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "utterance": "Fresh vegetable dishes always look pretty inviting.",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "utterance": "Was it a pasta dish?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "query_turns": [
+      {
+        "utterance": "What dish was shown in the earlier image?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "dialogue_id": "daily:1348",
+    "anchor_type": "image",
+    "anchor_category": "location",
+    "answer": "beach",
+    "anchor_turns": [
+      {
+        "utterance": "Here is the view I was talking about.",
+        "speaker": "Deaven",
+        "shared_image": [
+          "image_lowconf_rescue_batch/daily_1348_anchor.jpg"
+        ],
+        "description": "A sunny beach scene with people looking toward the ocean."
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "utterance": "Coastal views are always relaxing to look at.",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "utterance": "Was it a lake?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "query_turns": [
+      {
+        "utterance": "What kind of place was shown in the earlier image?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "dialogue_id": "daily:1435",
+    "anchor_type": "image",
+    "anchor_category": "event_experience",
+    "answer": "running",
+    "anchor_turns": [
+      {
+        "utterance": "This is the kind of moment I meant.",
+        "speaker": "James",
+        "shared_image": [
+          "image_lowconf_rescue_batch/daily_1435_anchor.jpg"
+        ],
+        "description": "A young runner sprinting along a blue track at a stadium."
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "utterance": "Track events always make kids look full of energy.",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "utterance": "Was he jumping?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "query_turns": [
+      {
+        "utterance": "What activity was happening in the earlier image?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "dialogue_id": "daily:1579",
+    "anchor_type": "image",
+    "anchor_category": "object_attribute",
+    "answer": "computer",
+    "anchor_turns": [
+      {
+        "utterance": "Here is the setup I was talking about.",
+        "speaker": "Said",
+        "shared_image": [
+          "image_lowconf_rescue_batch/daily_1579_anchor.jpg"
+        ],
+        "description": "A desktop computer setup on a desk with lamps on both sides."
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "utterance": "Workspace photos usually center around one main device.",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "utterance": "Was it a television setup?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "query_turns": [
+      {
+        "utterance": "What device was shown in the earlier image?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "dialogue_id": "daily:16526",
+    "anchor_type": "image",
+    "anchor_category": "location",
+    "answer": "house",
+    "anchor_turns": [
+      {
+        "utterance": "Here is the place I meant.",
+        "speaker": "Leandro",
+        "shared_image": [
+          "image_lowconf_rescue_batch/daily_16526_anchor.jpg"
+        ],
+        "description": "The exterior of a single-story house with a front yard."
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "utterance": "I always notice the exterior before stepping inside.",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "utterance": "Was it an apartment building?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "query_turns": [
+      {
+        "utterance": "What kind of place was shown in the earlier image?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "dialogue_id": "persona:2280",
+    "anchor_type": "image",
+    "anchor_category": "object_attribute",
+    "answer": "fish",
+    "anchor_turns": [
+      {
+        "utterance": "Here is the shot I meant.",
+        "speaker": "Huey",
+        "shared_image": [
+          "image_lowconf_rescue_batch/persona_2280_anchor.jpg"
+        ],
+        "description": "A person holding up a large fish they just caught."
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "utterance": "Catching something sizeable always makes for a proud photo.",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "utterance": "Was it a turtle?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "query_turns": [
+      {
+        "utterance": "What animal was shown in the earlier image?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "dialogue_id": "persona:4186",
+    "anchor_type": "image",
+    "anchor_category": "event_experience",
+    "answer": "meditating",
+    "anchor_turns": [
+      {
+        "utterance": "This is the one I wanted to show you.",
+        "speaker": "Ellise",
+        "shared_image": [
+          "image_lowconf_rescue_batch/persona_4186_anchor.jpg"
+        ],
+        "description": "A woman sitting cross-legged and meditating beside a lake."
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "utterance": "Quiet outdoor scenes can feel especially calming.",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "utterance": "Was she fishing?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "query_turns": [
+      {
+        "utterance": "What activity was happening in the earlier image?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "dialogue_id": "persona:5098",
+    "anchor_type": "image",
+    "anchor_category": "location",
+    "answer": "trail",
+    "anchor_turns": [
+      {
+        "utterance": "Take a look at this one.",
+        "speaker": "Anglia",
+        "shared_image": [
+          "image_lowconf_rescue_batch/persona_5098_anchor.jpg"
+        ],
+        "description": "A narrow trail stretching through green meadows and trees."
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "utterance": "I really like being outdoors where there is plenty of open space.",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "utterance": "Was it a campsite?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "query_turns": [
+      {
+        "utterance": "What kind of place was shown in the earlier image?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "dialogue_id": "persona:7355",
+    "anchor_type": "image",
+    "anchor_category": "location",
+    "answer": "swimming pool",
+    "anchor_turns": [
+      {
+        "utterance": "Here is the place I was thinking of.",
+        "speaker": "Jacobi",
+        "shared_image": [
+          "image_lowconf_rescue_batch/persona_7355_anchor.jpg"
+        ],
+        "description": "A modern indoor swimming pool inside a large home."
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "utterance": "Indoor leisure spaces can really define how a place feels.",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "utterance": "Was it a home gym?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "query_turns": [
+      {
+        "utterance": "What kind of place was shown in the earlier image?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ]
+  }
+]

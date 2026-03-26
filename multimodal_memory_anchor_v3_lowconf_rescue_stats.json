@@ -1,0 +1,35 @@
+{
+  "source_reference": "multimodal_image_run_stats.json",
+  "logged_prior_lowconf_pool": 842,
+  "replayed_lowconf_pool": 763,
+  "replay_breakdown": {
+    "turn3_image_candidates": 1111,
+    "already_done": 19,
+    "meta_or_textual": 92,
+    "multi_subject": 237,
+    "lowconf_replay": 763
+  },
+  "selected_for_manual_rescue": 11,
+  "kept": 11,
+  "skipped": {},
+  "category_counts": {
+    "location": 5,
+    "object_attribute": 3,
+    "event_experience": 3
+  },
+  "selected_ids": [
+    "bst:2650",
+    "bst:4734",
+    "bst:56",
+    "daily:1348",
+    "daily:1435",
+    "daily:1579",
+    "daily:16526",
+    "persona:2280",
+    "persona:4186",
+    "persona:5098",
+    "persona:7355"
+  ],
+  "shared_image_all_local": true,
+  "zip_exists": true
+}

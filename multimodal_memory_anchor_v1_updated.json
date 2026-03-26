@@ -1,0 +1,682 @@
+[
+  {
+    "dialogue_id": "persona:5298",
+    "anchor_type": "image",
+    "anchor_category": "object_attribute",
+    "answer": "beagle",
+    "anchor_turns": [
+      {
+        "utterance": "Here, meet my buddy.",
+        "speaker": "Sherrick",
+        "shared_image": [
+          "image_pilot_batch/persona_5298_anchor.jpg"
+        ],
+        "description": "A man relaxing with a small hound-type dog with droopy ears and tricolor markings."
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "utterance": "I have a golden retriever myself. They are great companions!",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "utterance": "Oh is that a dachshund? They are so cute!",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "query_turns": [
+      {
+        "utterance": "What breed of dog was shown in the earlier photo?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "dialogue_id": "persona:1137",
+    "anchor_type": "image",
+    "anchor_category": "location",
+    "answer": "beach",
+    "anchor_turns": [
+      {
+        "utterance": "Check out this view!",
+        "speaker": "Amalia",
+        "shared_image": [
+          "image_pilot_batch/persona_1137_anchor.jpg"
+        ],
+        "description": "A golden sunset over sandy shore with waves gently rolling in."
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "utterance": "I love watching sunsets from the rooftop of my building.",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "utterance": "That looks like a lakeside sunset to me.",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "query_turns": [
+      {
+        "utterance": "Where was the sunset photo taken?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "dialogue_id": "persona:5150",
+    "anchor_type": "image",
+    "anchor_category": "location",
+    "answer": "river",
+    "anchor_turns": [
+      {
+        "utterance": "This is the place I meant.",
+        "speaker": "Jadan",
+        "shared_image": [
+          "image_pilot_batch/persona_5150_anchor.jpg"
+        ],
+        "description": "A flowing body of water with a fishing rod and tackle box resting on the grassy bank."
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "utterance": "I usually fish off a pier at the harbor.",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "utterance": "Is that a pond? It looks pretty small.",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "query_turns": [
+      {
+        "utterance": "What type of waterway was shown in the fishing photo?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "dialogue_id": "persona:4891",
+    "anchor_type": "image",
+    "anchor_category": "location",
+    "answer": "beach",
+    "anchor_turns": [
+      {
+        "utterance": "This is the place I meant.",
+        "speaker": "Nathali",
+        "shared_image": [
+          "image_pilot_batch/persona_4891_anchor.jpg"
+        ],
+        "description": "A person running along a sandy shoreline with waves and open sky in the background."
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "utterance": "I prefer jogging on a trail through the woods.",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "utterance": "Were you running on a track? It looked flat.",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "query_turns": [
+      {
+        "utterance": "Where was the person running in the photo?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "dialogue_id": "bst:2345",
+    "anchor_type": "image",
+    "anchor_category": "location",
+    "answer": "lake",
+    "anchor_turns": [
+      {
+        "utterance": "This is the place I meant.",
+        "speaker": "Esabella",
+        "shared_image": [
+          "image_pilot_batch/bst_2345_anchor.jpg"
+        ],
+        "description": "A person holding a fishing rod on the shore of a calm body of water surrounded by hills."
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "utterance": "I like to fish at the creek near my house.",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "utterance": "That looks more like a reservoir than a natural spot.",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "query_turns": [
+      {
+        "utterance": "What body of water was shown in the fishing photo?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "dialogue_id": "persona:3441",
+    "anchor_type": "image",
+    "anchor_category": "object_attribute",
+    "answer": "malamute",
+    "anchor_turns": [
+      {
+        "speaker": "Amelya",
+        "utterance": "This is the one I was telling you about.",
+        "description": "A large fluffy dog with wolf-like features and pale blue eyes.",
+        "shared_image": [
+          "image_pilot_batch/persona_3441_anchor.jpg"
+        ]
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "speaker": "user",
+        "utterance": "I usually prefer bigger breeds over tiny lap dogs.",
+        "description": "",
+        "shared_image": []
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "speaker": "user",
+        "utterance": "So it was a husky, right?",
+        "description": "",
+        "shared_image": []
+      }
+    ],
+    "query_turns": [
+      {
+        "speaker": "user",
+        "utterance": "What breed was the dog in the earlier photo?",
+        "description": "",
+        "shared_image": []
+      }
+    ]
+  },
+  {
+    "dialogue_id": "persona:6019",
+    "anchor_type": "image",
+    "anchor_category": "object_attribute",
+    "answer": "poodle",
+    "anchor_turns": [
+      {
+        "speaker": "Emaly",
+        "utterance": "Here he is, relaxing beside me.",
+        "description": "A curly-coated dog resting on a sofa beside a pillow.",
+        "shared_image": [
+          "image_pilot_batch/persona_6019_anchor.jpg"
+        ]
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "speaker": "user",
+        "utterance": "Dogs with curlier coats always stand out to me.",
+        "description": "",
+        "shared_image": []
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "speaker": "user",
+        "utterance": "Was he a terrier?",
+        "description": "",
+        "shared_image": []
+      }
+    ],
+    "query_turns": [
+      {
+        "speaker": "user",
+        "utterance": "What breed was Toto in the photo?",
+        "description": "",
+        "shared_image": []
+      }
+    ]
+  },
+  {
+    "dialogue_id": "bst:4147",
+    "anchor_type": "image",
+    "anchor_category": "object_attribute",
+    "answer": "pug",
+    "anchor_turns": [
+      {
+        "speaker": "Beckam",
+        "utterance": "This is the little guy I meant.",
+        "description": "A small flat-faced dog looking straight toward the camera.",
+        "shared_image": [
+          "image_pilot_batch/bst_4147_anchor.jpg"
+        ]
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "speaker": "user",
+        "utterance": "Smaller companion breeds can have a lot of personality.",
+        "description": "",
+        "shared_image": []
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "speaker": "user",
+        "utterance": "Was it a bulldog?",
+        "description": "",
+        "shared_image": []
+      }
+    ],
+    "query_turns": [
+      {
+        "speaker": "user",
+        "utterance": "What breed was the dog in the picture?",
+        "description": "",
+        "shared_image": []
+      }
+    ]
+  },
+  {
+    "dialogue_id": "daily:1737",
+    "anchor_type": "image",
+    "anchor_category": "object_attribute",
+    "answer": "guitar",
+    "anchor_turns": [
+      {
+        "speaker": "Alaine",
+        "utterance": "This was the performer I got stuck watching.",
+        "description": "A street singer performing with a guitar at a subway exit.",
+        "shared_image": [
+          "image_pilot_batch/daily_1737_anchor.jpg"
+        ]
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "speaker": "user",
+        "utterance": "Street performances like that always draw a crowd.",
+        "description": "",
+        "shared_image": []
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "speaker": "user",
+        "utterance": "Was he playing a violin?",
+        "description": "",
+        "shared_image": []
+      }
+    ],
+    "query_turns": [
+      {
+        "speaker": "user",
+        "utterance": "What instrument was the singer playing in the photo?",
+        "description": "",
+        "shared_image": []
+      }
+    ]
+  },
+  {
+    "dialogue_id": "persona:7402",
+    "anchor_type": "image",
+    "anchor_category": "object_attribute",
+    "answer": "eclipse glasses",
+    "anchor_turns": [
+      {
+        "speaker": "Cheryl",
+        "utterance": "This was from the eclipse.",
+        "description": "A person watching the eclipse while wearing protective viewing glasses.",
+        "shared_image": [
+          "image_pilot_batch/persona_7402_anchor.jpg"
+        ]
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "speaker": "user",
+        "utterance": "You really need proper eye protection for something like that.",
+        "description": "",
+        "shared_image": []
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "speaker": "user",
+        "utterance": "Were those just regular sunglasses?",
+        "description": "",
+        "shared_image": []
+      }
+    ],
+    "query_turns": [
+      {
+        "speaker": "user",
+        "utterance": "What was the person wearing to safely watch the eclipse?",
+        "description": "",
+        "shared_image": []
+      }
+    ]
+  },
+  {
+    "dialogue_id": "persona:799",
+    "anchor_type": "image",
+    "anchor_category": "object_attribute",
+    "answer": "violin",
+    "anchor_turns": [
+      {
+        "speaker": "Tramell",
+        "utterance": "This was the performance I mentioned.",
+        "description": "A violin being tuned beside sheet music.",
+        "shared_image": [
+          "image_pilot_batch/persona_799_anchor.jpg"
+        ]
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "speaker": "user",
+        "utterance": "Live music like that always sticks in my head.",
+        "description": "",
+        "shared_image": []
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "speaker": "user",
+        "utterance": "Was the musician playing a guitar?",
+        "description": "",
+        "shared_image": []
+      }
+    ],
+    "query_turns": [
+      {
+        "speaker": "user",
+        "utterance": "What instrument was being played in the photo?",
+        "description": "",
+        "shared_image": []
+      }
+    ]
+  },
+  {
+    "dialogue_id": "persona:5320",
+    "anchor_type": "image",
+    "anchor_category": "object_attribute",
+    "answer": "scarf",
+    "anchor_turns": [
+      {
+        "speaker": "Khamani",
+        "utterance": "This is the one I wanted to show you.",
+        "description": "A thick knitted scarf with colorful patchwork patterns.",
+        "shared_image": [
+          "image_pilot_batch/persona_5320_anchor.jpg"
+        ]
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "speaker": "user",
+        "utterance": "Handmade accessories usually have a lot of texture.",
+        "description": "",
+        "shared_image": []
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "speaker": "user",
+        "utterance": "Was it a hat?",
+        "description": "",
+        "shared_image": []
+      }
+    ],
+    "query_turns": [
+      {
+        "speaker": "user",
+        "utterance": "What clothing item was shown in the picture?",
+        "description": "",
+        "shared_image": []
+      }
+    ]
+  },
+  {
+    "dialogue_id": "bst:855",
+    "anchor_type": "image",
+    "anchor_category": "location",
+    "answer": "beach",
+    "anchor_turns": [
+      {
+        "speaker": "Jayvien",
+        "utterance": "This is the place I meant.",
+        "description": "A quiet tropical beach with pale sand and clear water.",
+        "shared_image": [
+          "image_pilot_batch/bst_855_anchor.jpg"
+        ]
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "speaker": "user",
+        "utterance": "Places like that always look relaxing.",
+        "description": "",
+        "shared_image": []
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "speaker": "user",
+        "utterance": "Was it a lake?",
+        "description": "",
+        "shared_image": []
+      }
+    ],
+    "query_turns": [
+      {
+        "speaker": "user",
+        "utterance": "What kind of place was shown in the vacation photo?",
+        "description": "",
+        "shared_image": []
+      }
+    ]
+  },
+  {
+    "dialogue_id": "bst:1277",
+    "anchor_type": "image",
+    "anchor_category": "location",
+    "answer": "river",
+    "anchor_turns": [
+      {
+        "speaker": "Carlisha",
+        "utterance": "This is the place I meant.",
+        "description": "A city skyline beside a wide river at sunset.",
+        "shared_image": [
+          "image_pilot_batch/bst_1277_anchor.jpg"
+        ]
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "speaker": "user",
+        "utterance": "Places like that always look relaxing.",
+        "description": "",
+        "shared_image": []
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "speaker": "user",
+        "utterance": "Was it a lake?",
+        "description": "",
+        "shared_image": []
+      }
+    ],
+    "query_turns": [
+      {
+        "speaker": "user",
+        "utterance": "What body of water was shown in the skyline photo?",
+        "description": "",
+        "shared_image": []
+      }
+    ]
+  },
+  {
+    "dialogue_id": "bst:1364",
+    "anchor_type": "image",
+    "anchor_category": "object_attribute",
+    "answer": "laptop",
+    "anchor_turns": [
+      {
+        "speaker": "Reid",
+        "utterance": "This is the one I wanted to show you.",
+        "description": "A man working late on a laptop at his desk.",
+        "shared_image": [
+          "image_pilot_batch/bst_1364_anchor.jpg"
+        ]
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "speaker": "user",
+        "utterance": "A setup like that is usually part of a long evening at the desk.",
+        "description": "",
+        "shared_image": []
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "speaker": "user",
+        "utterance": "Was it a tablet?",
+        "description": "",
+        "shared_image": []
+      }
+    ],
+    "query_turns": [
+      {
+        "speaker": "user",
+        "utterance": "What device was shown in the picture?",
+        "description": "",
+        "shared_image": []
+      }
+    ]
+  },
+  {
+    "dialogue_id": "bst:1491",
+    "anchor_type": "image",
+    "anchor_category": "object_attribute",
+    "answer": "truck",
+    "anchor_turns": [
+      {
+        "speaker": "Sebrina",
+        "utterance": "This is the one I wanted to show you.",
+        "description": "A lifted pickup truck parked outdoors.",
+        "shared_image": [
+          "image_pilot_batch/bst_1491_anchor.jpg"
+        ]
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "speaker": "user",
+        "utterance": "Vehicles like that are hard to miss once you see them up close.",
+        "description": "",
+        "shared_image": []
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "speaker": "user",
+        "utterance": "Was it a van?",
+        "description": "",
+        "shared_image": []
+      }
+    ],
+    "query_turns": [
+      {
+        "speaker": "user",
+        "utterance": "What vehicle was shown in the picture?",
+        "description": "",
+        "shared_image": []
+      }
+    ]
+  },
+  {
+    "dialogue_id": "bst:4595",
+    "anchor_type": "image",
+    "anchor_category": "object_attribute",
+    "answer": "bicycle",
+    "anchor_turns": [
+      {
+        "speaker": "Dariana",
+        "utterance": "This is the one I wanted to show you.",
+        "description": "A hand-pedal bicycle parked outdoors.",
+        "shared_image": [
+          "image_pilot_batch/bst_4595_anchor.jpg"
+        ]
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "speaker": "user",
+        "utterance": "Vehicles like that are hard to miss once you see them up close.",
+        "description": "",
+        "shared_image": []
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "speaker": "user",
+        "utterance": "Was it a scooter?",
+        "description": "",
+        "shared_image": []
+      }
+    ],
+    "query_turns": [
+      {
+        "speaker": "user",
+        "utterance": "What vehicle was shown in the picture?",
+        "description": "",
+        "shared_image": []
+      }
+    ]
+  }
+]

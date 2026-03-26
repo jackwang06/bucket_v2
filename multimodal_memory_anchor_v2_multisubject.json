@@ -1,0 +1,82 @@
+[
+  {
+    "dialogue_id": "persona:8155",
+    "anchor_type": "image",
+    "anchor_category": "object_attribute",
+    "answer": "guitar",
+    "anchor_turns": [
+      {
+        "utterance": "Here’s the shot I was talking about.",
+        "speaker": "Geri",
+        "shared_image": [
+          "image_pilot_batch2/persona_8155_anchor.jpg"
+        ],
+        "description": "A woman performing onstage with an electric guitar under bright lights."
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "utterance": "Stage performances usually have one thing that draws your eye first.",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "utterance": "Was it a violin?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "query_turns": [
+      {
+        "utterance": "What instrument stood out in the earlier photo?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "dialogue_id": "persona:1709",
+    "anchor_type": "image",
+    "anchor_category": "object_attribute",
+    "answer": "cake",
+    "anchor_turns": [
+      {
+        "utterance": "Take a look at this one.",
+        "speaker": "Coronda",
+        "shared_image": [
+          "image_pilot_batch2/persona_1709_anchor.jpg"
+        ],
+        "description": "An anniversary cake held between an older couple wearing party hats."
+      }
+    ],
+    "indirect_reference_turns": [
+      {
+        "utterance": "Celebration photos often center around something decorative or edible.",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "wrong_override_turns": [
+      {
+        "utterance": "Was it a bouquet?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ],
+    "query_turns": [
+      {
+        "utterance": "What object stood out in the earlier photo?",
+        "speaker": "user",
+        "shared_image": [],
+        "description": ""
+      }
+    ]
+  }
+]

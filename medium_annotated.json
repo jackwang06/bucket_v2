@@ -1,0 +1,3674 @@
+[
+  {
+    "dialogue_id": "bst:237",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "the Beatles",
+    "anchor_turns": [
+      "I love the Beatles the best."
+    ],
+    "indirect_reference_turns": [
+      "I grew up listening to classic British rock."
+    ],
+    "wrong_override_turns": [
+      "My favorite band is the Rolling Stones."
+    ],
+    "query_turns": [
+      "What is your favorite band?"
+    ]
+  },
+  {
+    "dialogue_id": "bst:2380",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "quarter acre",
+    "anchor_turns": [
+      "It is a quarter acre and facing south."
+    ],
+    "indirect_reference_turns": [
+      "The garden is not very large."
+    ],
+    "wrong_override_turns": [
+      "It is about half an acre."
+    ],
+    "query_turns": [
+      "How big is your garden?"
+    ]
+  },
+  {
+    "dialogue_id": "bst:1122",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "hiking",
+    "anchor_turns": [
+      "I have a dog I take hiking all the time. I love being outdoors."
+    ],
+    "indirect_reference_turns": [
+      "I spend a lot of time on trails."
+    ],
+    "wrong_override_turns": [
+      "I prefer staying indoors."
+    ],
+    "query_turns": [
+      "What outdoor activity do you enjoy most?"
+    ]
+  },
+  {
+    "dialogue_id": "bst:3671",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "herbs and spices",
+    "anchor_turns": [
+      "I like to grow my own herbs and spices for cooking."
+    ],
+    "indirect_reference_turns": [
+      "I use fresh ingredients from my garden."
+    ],
+    "wrong_override_turns": [
+      "I buy all my seasonings from the store."
+    ],
+    "query_turns": [
+      "What do you grow in your garden?"
+    ]
+  },
+  {
+    "dialogue_id": "bst:4074",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "Baltimore Orioles",
+    "anchor_turns": [
+      "I play for the Baltimore Orioles."
+    ],
+    "indirect_reference_turns": [
+      "I'm on a professional baseball team in Maryland."
+    ],
+    "wrong_override_turns": [
+      "I play for the New York Yankees."
+    ],
+    "query_turns": [
+      "Which team do you play for?"
+    ]
+  },
+  {
+    "dialogue_id": "bst:2381",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "camping",
+    "anchor_turns": [
+      "My family goes camping a lot."
+    ],
+    "indirect_reference_turns": [
+      "We spend a lot of weekends outdoors."
+    ],
+    "wrong_override_turns": [
+      "My family prefers staying at hotels."
+    ],
+    "query_turns": [
+      "What does your family do for outdoor activities?"
+    ]
+  },
+  {
+    "dialogue_id": "bst:2445",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "farmer's markets",
+    "anchor_turns": [
+      "I love going to farmer's markets. My adopted dad takes me."
+    ],
+    "indirect_reference_turns": [
+      "I enjoy shopping for fresh local produce."
+    ],
+    "wrong_override_turns": [
+      "I usually shop at the supermarket."
+    ],
+    "query_turns": [
+      "Where do you like to shop for food?"
+    ]
+  },
+  {
+    "dialogue_id": "bst:3892",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "Orange",
+    "anchor_turns": [
+      "The 2 cats I have left are named Orange and Lemur."
+    ],
+    "indirect_reference_turns": [
+      "One of my cats has a color-based name."
+    ],
+    "wrong_override_turns": [
+      "My cat is named Ginger."
+    ],
+    "query_turns": [
+      "What is one of your cats' names?"
+    ]
+  },
+  {
+    "dialogue_id": "bst:2192",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "purple",
+    "anchor_turns": [
+      "I always wear purple to my favorite band Worn's concerts."
+    ],
+    "indirect_reference_turns": [
+      "I like to dress in a specific color for shows."
+    ],
+    "wrong_override_turns": [
+      "I usually wear black to concerts."
+    ],
+    "query_turns": [
+      "What color do you wear to concerts?"
+    ]
+  },
+  {
+    "dialogue_id": "bst:3547",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "cooking",
+    "anchor_turns": [
+      "I really love to cook."
+    ],
+    "indirect_reference_turns": [
+      "I enjoy spending time in the kitchen."
+    ],
+    "wrong_override_turns": [
+      "I never cook at home."
+    ],
+    "query_turns": [
+      "What is one of your hobbies?"
+    ]
+  },
+  {
+    "dialogue_id": "bst:2737",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "announcer",
+    "anchor_turns": [
+      "My dream job is to be an announcer at the ball field."
+    ],
+    "indirect_reference_turns": [
+      "I'd love to work in sports broadcasting someday."
+    ],
+    "wrong_override_turns": [
+      "My dream job is to be a coach."
+    ],
+    "query_turns": [
+      "What is your dream job?"
+    ]
+  },
+  {
+    "dialogue_id": "bst:3125",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "English",
+    "anchor_turns": [
+      "I just got my degree in English."
+    ],
+    "indirect_reference_turns": [
+      "I recently finished my studies in the humanities."
+    ],
+    "wrong_override_turns": [
+      "I got my degree in history."
+    ],
+    "query_turns": [
+      "What did you get your degree in?"
+    ]
+  },
+  {
+    "dialogue_id": "bst:4566",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "two dogs",
+    "anchor_turns": [
+      "I have two dogs I love to pieces."
+    ],
+    "indirect_reference_turns": [
+      "My pets keep me busy at home."
+    ],
+    "wrong_override_turns": [
+      "I have three cats."
+    ],
+    "query_turns": [
+      "How many dogs do you have?"
+    ]
+  },
+  {
+    "dialogue_id": "bst:2243",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "lift weights",
+    "anchor_turns": [
+      "I make sure to lift weights every day."
+    ],
+    "indirect_reference_turns": [
+      "I keep a strict daily exercise routine."
+    ],
+    "wrong_override_turns": [
+      "I go running every morning."
+    ],
+    "query_turns": [
+      "What exercise do you do every day?"
+    ]
+  },
+  {
+    "dialogue_id": "bst:220",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "my dog",
+    "anchor_turns": [
+      "I love animals, especially my dog."
+    ],
+    "indirect_reference_turns": [
+      "I'm a big pet person."
+    ],
+    "wrong_override_turns": [
+      "I'm more of a cat person."
+    ],
+    "query_turns": [
+      "What is your favorite pet?"
+    ]
+  },
+  {
+    "dialogue_id": "bst:919",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "Virginia",
+    "anchor_turns": [
+      "I grew up in Virginia."
+    ],
+    "indirect_reference_turns": [
+      "I'm originally from the east coast."
+    ],
+    "wrong_override_turns": [
+      "I grew up in North Carolina."
+    ],
+    "query_turns": [
+      "Where did you grow up?"
+    ]
+  },
+  {
+    "dialogue_id": "bst:1389",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "mixed pitbull",
+    "anchor_turns": [
+      "I have a mixed pitbull."
+    ],
+    "indirect_reference_turns": [
+      "My dog is a strong loyal breed."
+    ],
+    "wrong_override_turns": [
+      "I have a golden retriever."
+    ],
+    "query_turns": [
+      "What breed is your dog?"
+    ]
+  },
+  {
+    "dialogue_id": "bst:340",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "action movies",
+    "anchor_turns": [
+      "I like action movies."
+    ],
+    "indirect_reference_turns": [
+      "I enjoy fast-paced films."
+    ],
+    "wrong_override_turns": [
+      "I prefer romantic comedies."
+    ],
+    "query_turns": [
+      "What type of movies do you like?"
+    ]
+  },
+  {
+    "dialogue_id": "bst:1350",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "orange",
+    "anchor_turns": [
+      "I like the orange flavor."
+    ],
+    "indirect_reference_turns": [
+      "I tend to pick citrus-flavored candy."
+    ],
+    "wrong_override_turns": [
+      "I like the red flavor best."
+    ],
+    "query_turns": [
+      "What is your favorite gummy bear flavor?"
+    ]
+  },
+  {
+    "dialogue_id": "bst:4162",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "Mickey",
+    "anchor_turns": [
+      "My sister had a grey house cat called Mickey."
+    ],
+    "indirect_reference_turns": [
+      "There used to be a cat in the family."
+    ],
+    "wrong_override_turns": [
+      "The cat was named Max."
+    ],
+    "query_turns": [
+      "What was your sister's cat's name?"
+    ]
+  },
+  {
+    "dialogue_id": "bst:4122",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "basil and mint",
+    "anchor_turns": [
+      "I grow herbs like basil and mint, and some vegetables."
+    ],
+    "indirect_reference_turns": [
+      "I keep a small herb garden at home."
+    ],
+    "wrong_override_turns": [
+      "I mainly grow rosemary and thyme."
+    ],
+    "query_turns": [
+      "What herbs do you grow?"
+    ]
+  },
+  {
+    "dialogue_id": "bst:3877",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "mountains",
+    "anchor_turns": [
+      "Show me a mountain and I'm happy."
+    ],
+    "indirect_reference_turns": [
+      "I love being at high elevations."
+    ],
+    "wrong_override_turns": [
+      "I much prefer the beach."
+    ],
+    "query_turns": [
+      "What kind of scenery makes you happiest?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:2519",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "Friday's",
+    "anchor_turns": [
+      "Jake made a reservation at Friday's."
+    ],
+    "indirect_reference_turns": [
+      "We're going to a casual chain restaurant."
+    ],
+    "wrong_override_turns": [
+      "The reservation is at Applebee's."
+    ],
+    "query_turns": [
+      "Where is the dinner reservation?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:4384",
+    "anchor_type": "text",
+    "anchor_category": "time",
+    "answer": "five",
+    "anchor_turns": [
+      "Children start school at five."
+    ],
+    "indirect_reference_turns": [
+      "Kids begin education at a young age here."
+    ],
+    "wrong_override_turns": [
+      "Children start school at seven."
+    ],
+    "query_turns": [
+      "At what age do children start school?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:21664",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "useless at cooking",
+    "anchor_turns": [
+      "I'm absolutely useless at cooking."
+    ],
+    "indirect_reference_turns": [
+      "I usually eat frozen or takeout food."
+    ],
+    "wrong_override_turns": [
+      "I'm actually a decent cook."
+    ],
+    "query_turns": [
+      "How are your cooking skills?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:11507",
+    "anchor_type": "text",
+    "anchor_category": "event_experience",
+    "answer": "economic law",
+    "anchor_turns": [
+      "I lost the paper with our economic law homework."
+    ],
+    "indirect_reference_turns": [
+      "I need help finding a class assignment."
+    ],
+    "wrong_override_turns": [
+      "It was the business ethics homework."
+    ],
+    "query_turns": [
+      "Which class homework are you looking for?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:8578",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "fruit juice",
+    "anchor_turns": [
+      "We have fruit juice, cake, and refreshments."
+    ],
+    "indirect_reference_turns": [
+      "There are several breakfast options available."
+    ],
+    "wrong_override_turns": [
+      "We have coffee and toast this morning."
+    ],
+    "query_turns": [
+      "What drinks are available this morning?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:864",
+    "anchor_type": "text",
+    "anchor_category": "event_experience",
+    "answer": "house warming party",
+    "anchor_turns": [
+      "The invitation is for a house warming party."
+    ],
+    "indirect_reference_turns": [
+      "Someone is celebrating a new home."
+    ],
+    "wrong_override_turns": [
+      "It's a birthday party invitation."
+    ],
+    "query_turns": [
+      "What is the invitation for?"
+    ]
+  },
+  {
+    "dialogue_id": "bst:2859",
+    "anchor_type": "text",
+    "anchor_category": "event_experience",
+    "answer": "slept in",
+    "anchor_turns": [
+      "I was invited to a party today but slept in."
+    ],
+    "indirect_reference_turns": [
+      "I missed a social event because I overslept."
+    ],
+    "wrong_override_turns": [
+      "I went to the party and had a great time."
+    ],
+    "query_turns": [
+      "Why did you miss the party today?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:7363",
+    "anchor_type": "text",
+    "anchor_category": "event_experience",
+    "answer": "senior production planner",
+    "anchor_turns": [
+      "I came about the advertisement for a senior production planner."
+    ],
+    "indirect_reference_turns": [
+      "I'm here about the job posting."
+    ],
+    "wrong_override_turns": [
+      "I'm applying for the junior analyst position."
+    ],
+    "query_turns": [
+      "Which position are you applying for?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:18957",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "floral brim",
+    "anchor_turns": [
+      "I like a skirt with flowers on its brim."
+    ],
+    "indirect_reference_turns": [
+      "I prefer floral-patterned clothing."
+    ],
+    "wrong_override_turns": [
+      "I want a plain striped skirt."
+    ],
+    "query_turns": [
+      "What kind of skirt design do you want?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:17101",
+    "anchor_type": "text",
+    "anchor_category": "time",
+    "answer": "3 months",
+    "anchor_turns": [
+      "In 3 months or so."
+    ],
+    "indirect_reference_turns": [
+      "It won't be too long from now."
+    ],
+    "wrong_override_turns": [
+      "In about 6 months."
+    ],
+    "query_turns": [
+      "How soon will that happen?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:6643",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "Tian'anmen Square",
+    "anchor_turns": [
+      "You are going to Tian'anmen Square."
+    ],
+    "indirect_reference_turns": [
+      "The destination is a famous landmark in Beijing."
+    ],
+    "wrong_override_turns": [
+      "You are heading to the Forbidden City."
+    ],
+    "query_turns": [
+      "Where is the passenger going?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:21572",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "the landlord",
+    "anchor_turns": [
+      "Nothing. The landlord pays."
+    ],
+    "indirect_reference_turns": [
+      "The utility costs are covered by someone else."
+    ],
+    "wrong_override_turns": [
+      "The tenant pays the utilities."
+    ],
+    "query_turns": [
+      "Who pays the utilities?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:15966",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "all-American meal",
+    "anchor_turns": [
+      "It reveals the dark side of the all-American meal."
+    ],
+    "indirect_reference_turns": [
+      "The book is a critique of American fast food culture."
+    ],
+    "wrong_override_turns": [
+      "It's about healthy cooking at home."
+    ],
+    "query_turns": [
+      "What does the book expose?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:20977",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "crab cocktail",
+    "anchor_turns": [
+      "I'd like a crab cocktail."
+    ],
+    "indirect_reference_turns": [
+      "I'm ordering a seafood appetizer."
+    ],
+    "wrong_override_turns": [
+      "I'll have the shrimp cocktail."
+    ],
+    "query_turns": [
+      "What would you like to order?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:1651",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "bread",
+    "anchor_turns": [
+      "I'll have bread for breakfast."
+    ],
+    "indirect_reference_turns": [
+      "I chose a simple carb option."
+    ],
+    "wrong_override_turns": [
+      "I'd like eggs for breakfast."
+    ],
+    "query_turns": [
+      "What do you want for breakfast?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:9411",
+    "anchor_type": "text",
+    "anchor_category": "event_experience",
+    "answer": "Saturday night",
+    "anchor_turns": [
+      "There will be a charity performance on Saturday night."
+    ],
+    "indirect_reference_turns": [
+      "There's a special show this weekend."
+    ],
+    "wrong_override_turns": [
+      "The charity performance is on Friday."
+    ],
+    "query_turns": [
+      "When is the charity performance?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:2515",
+    "anchor_type": "text",
+    "anchor_category": "time",
+    "answer": "Thursday",
+    "anchor_turns": [
+      "I often work late on Thursday."
+    ],
+    "indirect_reference_turns": [
+      "I'm usually busy toward the end of the week."
+    ],
+    "wrong_override_turns": [
+      "I work late on Tuesday."
+    ],
+    "query_turns": [
+      "Which day do you often work late?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:13507",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "Spain",
+    "anchor_turns": [
+      "I don't need a visa to go to Spain, do I?"
+    ],
+    "indirect_reference_turns": [
+      "I'm traveling to a European country."
+    ],
+    "wrong_override_turns": [
+      "I'm going to Portugal."
+    ],
+    "query_turns": [
+      "Which country are you traveling to?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:13066",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "Florida",
+    "anchor_turns": [
+      "Florida had great weather while we were there."
+    ],
+    "indirect_reference_turns": [
+      "We vacationed in a sunny southern state."
+    ],
+    "wrong_override_turns": [
+      "We went to California."
+    ],
+    "query_turns": [
+      "Where did you go on vacation?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:14697",
+    "anchor_type": "text",
+    "anchor_category": "event_experience",
+    "answer": "two hours late",
+    "anchor_turns": [
+      "I slept through my alarm and was two hours late to work."
+    ],
+    "indirect_reference_turns": [
+      "I had a rough start to my morning."
+    ],
+    "wrong_override_turns": [
+      "I was only 15 minutes late."
+    ],
+    "query_turns": [
+      "How late were you to work?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:3889",
+    "anchor_type": "text",
+    "anchor_category": "event_experience",
+    "answer": "five times",
+    "anchor_turns": [
+      "You have been absent from class five times this semester."
+    ],
+    "indirect_reference_turns": [
+      "You've missed quite a few classes recently."
+    ],
+    "wrong_override_turns": [
+      "You've only been absent twice."
+    ],
+    "query_turns": [
+      "How many times has the student been absent this semester?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:16106",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "Jenny Madison",
+    "anchor_turns": [
+      "My name is Jenny Madison."
+    ],
+    "indirect_reference_turns": [
+      "She introduced herself."
+    ],
+    "wrong_override_turns": [
+      "Her name is Sarah Johnson."
+    ],
+    "query_turns": [
+      "What is her name?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:13662",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "nightclub",
+    "anchor_turns": [
+      "There is a very good nightclub nearby."
+    ],
+    "indirect_reference_turns": [
+      "There's a fun place to go dancing close by."
+    ],
+    "wrong_override_turns": [
+      "There's a karaoke bar nearby."
+    ],
+    "query_turns": [
+      "Where did they suggest going to dance?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:1711",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "by bike",
+    "anchor_turns": [
+      "Why don't we go to the concert by bike?"
+    ],
+    "indirect_reference_turns": [
+      "I suggested an alternative way to get there."
+    ],
+    "wrong_override_turns": [
+      "Let's take the bus instead."
+    ],
+    "query_turns": [
+      "How did they suggest getting to the concert?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:5987",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "905 yuan",
+    "anchor_turns": [
+      "It's 905 yuan in total."
+    ],
+    "indirect_reference_turns": [
+      "The total came to just under a thousand."
+    ],
+    "wrong_override_turns": [
+      "The total is 750 yuan."
+    ],
+    "query_turns": [
+      "What is the total price?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:19342",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "full-size",
+    "anchor_turns": [
+      "I'd like a full-size car, please."
+    ],
+    "indirect_reference_turns": [
+      "I chose the largest car option."
+    ],
+    "wrong_override_turns": [
+      "I'd like a compact car."
+    ],
+    "query_turns": [
+      "What size rental car do you want?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:12891",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "five sides",
+    "anchor_turns": [
+      "The Pentagon is distinctive with its five sides."
+    ],
+    "indirect_reference_turns": [
+      "It has an unusual geometric shape."
+    ],
+    "wrong_override_turns": [
+      "The Pentagon has six sides."
+    ],
+    "query_turns": [
+      "How many sides does the Pentagon have?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:20438",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "round trip",
+    "anchor_turns": [
+      "I'd like a round trip ticket."
+    ],
+    "indirect_reference_turns": [
+      "I need to come back as well."
+    ],
+    "wrong_override_turns": [
+      "I need a one-way ticket."
+    ],
+    "query_turns": [
+      "Do you want a one-way or round trip ticket?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:7044",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "L.A.",
+    "anchor_turns": [
+      "My mother-in-law went into the hospital in L.A."
+    ],
+    "indirect_reference_turns": [
+      "A family member is hospitalized in a big city."
+    ],
+    "wrong_override_turns": [
+      "She's in a hospital in San Francisco."
+    ],
+    "query_turns": [
+      "Where is the mother-in-law hospitalized?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:10308",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "the shoulder",
+    "anchor_turns": [
+      "It hurts in the shoulder."
+    ],
+    "indirect_reference_turns": [
+      "The pain is in the upper body area."
+    ],
+    "wrong_override_turns": [
+      "The pain is in my knee."
+    ],
+    "query_turns": [
+      "Where does it hurt?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:12536",
+    "anchor_type": "text",
+    "anchor_category": "event_experience",
+    "answer": "father's birthday",
+    "anchor_turns": [
+      "I'm going to my parents' house for my father's birthday."
+    ],
+    "indirect_reference_turns": [
+      "I have a family celebration to attend."
+    ],
+    "wrong_override_turns": [
+      "I'm going for my mother's birthday."
+    ],
+    "query_turns": [
+      "Why are you going to your parents' house tonight?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:17822",
+    "anchor_type": "text",
+    "anchor_category": "time",
+    "answer": "3 years",
+    "anchor_turns": [
+      "I've been a production manager for 3 years."
+    ],
+    "indirect_reference_turns": [
+      "I have several years of management experience."
+    ],
+    "wrong_override_turns": [
+      "I've been doing it for 5 years."
+    ],
+    "query_turns": [
+      "How long have you been a production manager?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:12540",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "Diana",
+    "anchor_turns": [
+      "I finally worked up the nerve to ask Diana out."
+    ],
+    "indirect_reference_turns": [
+      "He's trying to ask someone on a date."
+    ],
+    "wrong_override_turns": [
+      "He's asking Sarah out."
+    ],
+    "query_turns": [
+      "Who is he asking out?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:3184",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "Athletic Express",
+    "anchor_turns": [
+      "I've been going to Athletic Express."
+    ],
+    "indirect_reference_turns": [
+      "I go to a gym but I'm not happy with it."
+    ],
+    "wrong_override_turns": [
+      "I go to Gold's Gym."
+    ],
+    "query_turns": [
+      "Which health club do you go to?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:15742",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "Rosedale Investments",
+    "anchor_turns": [
+      "I'm Michael Caxton from Rosedale Investments."
+    ],
+    "indirect_reference_turns": [
+      "He called from one of their customer companies."
+    ],
+    "wrong_override_turns": [
+      "He's from Greenfield Capital."
+    ],
+    "query_turns": [
+      "Which company is Michael Caxton from?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:21698",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "Northwest Airlines",
+    "anchor_turns": [
+      "You'll be on Northwest Airlines, flight 222."
+    ],
+    "indirect_reference_turns": [
+      "The booking is with a major US carrier."
+    ],
+    "wrong_override_turns": [
+      "You're on Delta Airlines."
+    ],
+    "query_turns": [
+      "Which airline is the flight on?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:20890",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "University of Ohio",
+    "anchor_turns": [
+      "I went to the University of Ohio in America."
+    ],
+    "indirect_reference_turns": [
+      "I studied at a school in the Midwest."
+    ],
+    "wrong_override_turns": [
+      "I went to the University of Michigan."
+    ],
+    "query_turns": [
+      "Which university did you attend?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:364",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "about 70",
+    "anchor_turns": [
+      "The life expectancy in my country is about 70."
+    ],
+    "indirect_reference_turns": [
+      "People don't live as long in my country."
+    ],
+    "wrong_override_turns": [
+      "It's about 80 years."
+    ],
+    "query_turns": [
+      "What is the life expectancy in your country?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:7169",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "John Sandals",
+    "anchor_turns": [
+      "My name is John Sandals."
+    ],
+    "indirect_reference_turns": [
+      "He gave his name for the reservation."
+    ],
+    "wrong_override_turns": [
+      "His name is John Stevens."
+    ],
+    "query_turns": [
+      "What is the guest's name?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:11650",
+    "anchor_type": "text",
+    "anchor_category": "event_experience",
+    "answer": "conditional offer",
+    "anchor_turns": [
+      "I'm waiting to get admitted with a conditional offer to apply for my visa."
+    ],
+    "indirect_reference_turns": [
+      "I still need some paperwork before I can study abroad."
+    ],
+    "wrong_override_turns": [
+      "I've already received my unconditional offer."
+    ],
+    "query_turns": [
+      "What kind of offer is the student waiting for?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:2108",
+    "anchor_type": "text",
+    "anchor_category": "event_experience",
+    "answer": "office party",
+    "anchor_turns": [
+      "We have a big office party tomorrow evening for Halloween."
+    ],
+    "indirect_reference_turns": [
+      "There's a costume event at work."
+    ],
+    "wrong_override_turns": [
+      "It's a neighborhood costume contest."
+    ],
+    "query_turns": [
+      "What Halloween event is happening tomorrow?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:12628",
+    "anchor_type": "text",
+    "anchor_category": "event_experience",
+    "answer": "a restaurant",
+    "anchor_turns": [
+      "I worked over the summer at a restaurant."
+    ],
+    "indirect_reference_turns": [
+      "I had a food service job recently."
+    ],
+    "wrong_override_turns": [
+      "I worked at a bookstore."
+    ],
+    "query_turns": [
+      "Where did you work over the summer?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:17943",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "a trim",
+    "anchor_turns": [
+      "I'd just like a trim, don't cut it too short."
+    ],
+    "indirect_reference_turns": [
+      "I want minimal length removed."
+    ],
+    "wrong_override_turns": [
+      "I want a completely new short hairstyle."
+    ],
+    "query_turns": [
+      "What kind of haircut do you want?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:20101",
+    "anchor_type": "text",
+    "anchor_category": "event_experience",
+    "answer": "strict upbringing",
+    "anchor_turns": [
+      "I had a pretty strict upbringing."
+    ],
+    "indirect_reference_turns": [
+      "My parents were very disciplined with me."
+    ],
+    "wrong_override_turns": [
+      "I had a very relaxed childhood."
+    ],
+    "query_turns": [
+      "What was your upbringing like?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:336",
+    "anchor_type": "text",
+    "anchor_category": "time",
+    "answer": "three days ago",
+    "anchor_turns": [
+      "I started this part-time job just three days ago."
+    ],
+    "indirect_reference_turns": [
+      "I'm very new to this job."
+    ],
+    "wrong_override_turns": [
+      "I started two weeks ago."
+    ],
+    "query_turns": [
+      "When did you start this part-time job?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:10252",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "Tianjin Commerce College",
+    "anchor_turns": [
+      "I graduated from Tianjin College of Commerce."
+    ],
+    "indirect_reference_turns": [
+      "I studied at a business school in China."
+    ],
+    "wrong_override_turns": [
+      "I graduated from Beijing University."
+    ],
+    "query_turns": [
+      "Which school did you graduate from?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:17113",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "John Bradley",
+    "anchor_turns": [
+      "The reservation is under John Bradley."
+    ],
+    "indirect_reference_turns": [
+      "He gave his name at the front desk."
+    ],
+    "wrong_override_turns": [
+      "The name is John Stevens."
+    ],
+    "query_turns": [
+      "What name is the hotel reservation under?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:14227",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "Bob Dylan",
+    "anchor_turns": [
+      "The biography is about Bob Dylan."
+    ],
+    "indirect_reference_turns": [
+      "It's about a famous American musician."
+    ],
+    "wrong_override_turns": [
+      "It's about John Lennon."
+    ],
+    "query_turns": [
+      "Who is the biography about?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:4073",
+    "anchor_type": "text",
+    "anchor_category": "time",
+    "answer": "three weeks ago",
+    "anchor_turns": [
+      "I came to know a girl three weeks ago."
+    ],
+    "indirect_reference_turns": [
+      "I recently met someone new."
+    ],
+    "wrong_override_turns": [
+      "I met her about two months ago."
+    ],
+    "query_turns": [
+      "When did you meet her?"
+    ]
+  },
+  {
+    "dialogue_id": "wow:13471",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "Ferdinand",
+    "anchor_turns": [
+      "I really enjoyed Ferdinand."
+    ],
+    "indirect_reference_turns": [
+      "I liked a recent animated movie."
+    ],
+    "wrong_override_turns": [
+      "My favorite Disney movie is Moana."
+    ],
+    "query_turns": [
+      "Which Disney movie did you enjoy?"
+    ]
+  },
+  {
+    "dialogue_id": "wow:12882",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "Louisiana",
+    "anchor_turns": [
+      "I am a native of Louisiana."
+    ],
+    "indirect_reference_turns": [
+      "I'm from a southern US state."
+    ],
+    "wrong_override_turns": [
+      "I'm from Mississippi."
+    ],
+    "query_turns": [
+      "Where are you from?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:8109",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "black F150",
+    "anchor_turns": [
+      "I own a black F150."
+    ],
+    "indirect_reference_turns": [
+      "I drive a Ford truck."
+    ],
+    "wrong_override_turns": [
+      "I have a red Mustang."
+    ],
+    "query_turns": [
+      "What vehicle do you own?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:1054",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "country",
+    "anchor_turns": [
+      "My favorite music is really country."
+    ],
+    "indirect_reference_turns": [
+      "I like a genre popular in the American South."
+    ],
+    "wrong_override_turns": [
+      "I mostly listen to rock music."
+    ],
+    "query_turns": [
+      "What is your favorite music genre?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:5442",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "rock",
+    "anchor_turns": [
+      "I also love rock music."
+    ],
+    "indirect_reference_turns": [
+      "I enjoy music with guitars and drums."
+    ],
+    "wrong_override_turns": [
+      "I prefer pop music."
+    ],
+    "query_turns": [
+      "Besides jazz, what other music genre do you love?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:6851",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "a library",
+    "anchor_turns": [
+      "I work at a library."
+    ],
+    "indirect_reference_turns": [
+      "My job involves being around books."
+    ],
+    "wrong_override_turns": [
+      "I work at a bookstore."
+    ],
+    "query_turns": [
+      "Where do you work?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:3291",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "programmer",
+    "anchor_turns": [
+      "I am actually a programmer. Helped create Facebook."
+    ],
+    "indirect_reference_turns": [
+      "I work in the tech industry."
+    ],
+    "wrong_override_turns": [
+      "I'm a graphic designer."
+    ],
+    "query_turns": [
+      "What is your profession?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:3571",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "Tony",
+    "anchor_turns": [
+      "My name is Tony."
+    ],
+    "indirect_reference_turns": [
+      "He introduced himself by name."
+    ],
+    "wrong_override_turns": [
+      "His name is Tom."
+    ],
+    "query_turns": [
+      "What is his name?"
+    ]
+  },
+  {
+    "dialogue_id": "daily:18482",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "Ping",
+    "anchor_turns": [
+      "My last name is spelled P-i-n-g."
+    ],
+    "indirect_reference_turns": [
+      "She spelled out her name."
+    ],
+    "wrong_override_turns": [
+      "The spelling is P-e-n-g."
+    ],
+    "query_turns": [
+      "How do you spell the last name?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:5937",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "radio job",
+    "anchor_turns": [
+      "I just got off work. I have a radio job."
+    ],
+    "indirect_reference_turns": [
+      "My job involves broadcasting."
+    ],
+    "wrong_override_turns": [
+      "I work in television."
+    ],
+    "query_turns": [
+      "What kind of job do you have?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:1988",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "brownies",
+    "anchor_turns": [
+      "I just made my favorite dessert, brownies."
+    ],
+    "indirect_reference_turns": [
+      "I baked a chocolate treat."
+    ],
+    "wrong_override_turns": [
+      "My favorite dessert is cheesecake."
+    ],
+    "query_turns": [
+      "What is your favorite dessert?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:13",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "rock",
+    "anchor_turns": [
+      "I prefer rock music, like Led Zeppelin."
+    ],
+    "indirect_reference_turns": [
+      "I'm into classic guitar-heavy bands."
+    ],
+    "wrong_override_turns": [
+      "I prefer jazz music."
+    ],
+    "query_turns": [
+      "What kind of music do you prefer?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:4567",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "kindergarten",
+    "anchor_turns": [
+      "I teach kindergarten at a small school."
+    ],
+    "indirect_reference_turns": [
+      "I work with very young children."
+    ],
+    "wrong_override_turns": [
+      "I teach high school math."
+    ],
+    "query_turns": [
+      "What grade do you teach?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:1976",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "draw and paint",
+    "anchor_turns": [
+      "I like to draw and paint."
+    ],
+    "indirect_reference_turns": [
+      "I enjoy visual arts as a hobby."
+    ],
+    "wrong_override_turns": [
+      "I like to sculpt."
+    ],
+    "query_turns": [
+      "What art do you like to do?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:524",
+    "anchor_type": "text",
+    "anchor_category": "event_experience",
+    "answer": "mother's death anniversary",
+    "anchor_turns": [
+      "It's the anniversary of my mother's death."
+    ],
+    "indirect_reference_turns": [
+      "Today is a hard day for me because of a loss."
+    ],
+    "wrong_override_turns": [
+      "It's my parents' wedding anniversary."
+    ],
+    "query_turns": [
+      "What anniversary is it today?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:8858",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "Texas",
+    "anchor_turns": [
+      "I broke my leg a few weeks ago and this Texas heat is killer."
+    ],
+    "indirect_reference_turns": [
+      "I live in a very hot southern state."
+    ],
+    "wrong_override_turns": [
+      "I'm in Arizona."
+    ],
+    "query_turns": [
+      "Which state are you in?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:362",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "retired teacher",
+    "anchor_turns": [
+      "My mother taught me to bake. She is a retired teacher."
+    ],
+    "indirect_reference_turns": [
+      "My mom used to work in education."
+    ],
+    "wrong_override_turns": [
+      "My mother is a retired nurse."
+    ],
+    "query_turns": [
+      "What is your mother's former profession?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:4733",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "fashion",
+    "anchor_turns": [
+      "I've loved fashion since I was young. I'm in school for it now."
+    ],
+    "indirect_reference_turns": [
+      "I'm studying something creative in college."
+    ],
+    "wrong_override_turns": [
+      "I'm studying business."
+    ],
+    "query_turns": [
+      "What are you studying in school?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:3453",
+    "anchor_type": "text",
+    "anchor_category": "event_experience",
+    "answer": "civil war reenactment",
+    "anchor_turns": [
+      "I am reenacting the Civil War next week."
+    ],
+    "indirect_reference_turns": [
+      "I have a historical event coming up."
+    ],
+    "wrong_override_turns": [
+      "I'm attending a Renaissance fair."
+    ],
+    "query_turns": [
+      "What event are you participating in next week?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:6470",
+    "anchor_type": "text",
+    "anchor_category": "event_experience",
+    "answer": "soccer",
+    "anchor_turns": [
+      "I just came in from playing soccer with my lads."
+    ],
+    "indirect_reference_turns": [
+      "I was just outside being active with friends."
+    ],
+    "wrong_override_turns": [
+      "We were playing basketball."
+    ],
+    "query_turns": [
+      "What sport were you just playing?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:8879",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "lumberjack",
+    "anchor_turns": [
+      "My occupation is lumberjack."
+    ],
+    "indirect_reference_turns": [
+      "I work outdoors with trees."
+    ],
+    "wrong_override_turns": [
+      "I'm a carpenter."
+    ],
+    "query_turns": [
+      "What is your occupation?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:1864",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "biographies",
+    "anchor_turns": [
+      "I like reading, especially biographies."
+    ],
+    "indirect_reference_turns": [
+      "I enjoy non-fiction about real people."
+    ],
+    "wrong_override_turns": [
+      "I mostly read science fiction."
+    ],
+    "query_turns": [
+      "What kind of books do you like to read?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:3936",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "the Gnarly Snail",
+    "anchor_turns": [
+      "My fishing boat is called the Gnarly Snail."
+    ],
+    "indirect_reference_turns": [
+      "My boat has an unusual name."
+    ],
+    "wrong_override_turns": [
+      "The boat is called the Sea Lion."
+    ],
+    "query_turns": [
+      "What is your fishing boat's name?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:2750",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "6 feet",
+    "anchor_turns": [
+      "I am 6 feet tall and usually wear red."
+    ],
+    "indirect_reference_turns": [
+      "I'm quite tall for a woman."
+    ],
+    "wrong_override_turns": [
+      "I'm 5 foot 4."
+    ],
+    "query_turns": [
+      "How tall are you?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:4008",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "Ohio",
+    "anchor_turns": [
+      "My grandfather was from Ohio."
+    ],
+    "indirect_reference_turns": [
+      "He was from a Midwestern state."
+    ],
+    "wrong_override_turns": [
+      "He was from Indiana."
+    ],
+    "query_turns": [
+      "Where was your grandfather from?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:5180",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "Pomeranian",
+    "anchor_turns": [
+      "I have a little Pomeranian."
+    ],
+    "indirect_reference_turns": [
+      "I have a small fluffy dog."
+    ],
+    "wrong_override_turns": [
+      "I have a Chihuahua."
+    ],
+    "query_turns": [
+      "What breed is your dog?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:5000",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "250",
+    "anchor_turns": [
+      "I have a super high IQ, 250."
+    ],
+    "indirect_reference_turns": [
+      "I'm extremely intelligent by test scores."
+    ],
+    "wrong_override_turns": [
+      "My IQ is 150."
+    ],
+    "query_turns": [
+      "What is your IQ?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:7099",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "Iron Maiden",
+    "anchor_turns": [
+      "Iron Maiden is my favorite band."
+    ],
+    "indirect_reference_turns": [
+      "I love a classic heavy metal group."
+    ],
+    "wrong_override_turns": [
+      "My favorite band is Metallica."
+    ],
+    "query_turns": [
+      "What is your favorite band?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:2941",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "Kesha",
+    "anchor_turns": [
+      "I love Kesha the singer."
+    ],
+    "indirect_reference_turns": [
+      "I'm a fan of a popular pop artist."
+    ],
+    "wrong_override_turns": [
+      "My favorite singer is Rihanna."
+    ],
+    "query_turns": [
+      "Who is your favorite singer?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:966",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "the Rolling Stones",
+    "anchor_turns": [
+      "I like groups like the Rolling Stones."
+    ],
+    "indirect_reference_turns": [
+      "I enjoy classic British rock bands."
+    ],
+    "wrong_override_turns": [
+      "I'm a big fan of the Beatles."
+    ],
+    "query_turns": [
+      "What kind of music groups do you like?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:7752",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "two cats",
+    "anchor_turns": [
+      "I have two kids and two cats."
+    ],
+    "indirect_reference_turns": [
+      "I have pets at home."
+    ],
+    "wrong_override_turns": [
+      "I have a dog."
+    ],
+    "query_turns": [
+      "What pets do you have?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:4293",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "law office",
+    "anchor_turns": [
+      "I'm sitting at the law office on my lunch break."
+    ],
+    "indirect_reference_turns": [
+      "I work in a legal setting."
+    ],
+    "wrong_override_turns": [
+      "I work at a hospital."
+    ],
+    "query_turns": [
+      "Where do you work?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:2076",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "5 acres",
+    "anchor_turns": [
+      "I have 5 acres of land."
+    ],
+    "indirect_reference_turns": [
+      "I own a sizable piece of property."
+    ],
+    "wrong_override_turns": [
+      "I have about 20 acres."
+    ],
+    "query_turns": [
+      "How much land do you have?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:2224",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "long beard",
+    "anchor_turns": [
+      "I have a long beard and a small dog."
+    ],
+    "indirect_reference_turns": [
+      "I have a lot of facial hair."
+    ],
+    "wrong_override_turns": [
+      "I'm clean-shaven."
+    ],
+    "query_turns": [
+      "Do you have a beard?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:620",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "UPS",
+    "anchor_turns": [
+      "I work for UPS."
+    ],
+    "indirect_reference_turns": [
+      "I work for a delivery company."
+    ],
+    "wrong_override_turns": [
+      "I work for FedEx."
+    ],
+    "query_turns": [
+      "Where do you work?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:8494",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "cannot drive",
+    "anchor_turns": [
+      "If I go anywhere I have to walk because I never learned to drive."
+    ],
+    "indirect_reference_turns": [
+      "I don't have a driver's license."
+    ],
+    "wrong_override_turns": [
+      "I drive everywhere."
+    ],
+    "query_turns": [
+      "Can you drive?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:2102",
+    "anchor_type": "text",
+    "anchor_category": "event_experience",
+    "answer": "dance class",
+    "anchor_turns": [
+      "I'm about to go to dance class."
+    ],
+    "indirect_reference_turns": [
+      "I'm heading out for a movement activity."
+    ],
+    "wrong_override_turns": [
+      "I'm going to yoga class."
+    ],
+    "query_turns": [
+      "Where are you going?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:7822",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "deaf",
+    "anchor_turns": [
+      "I am deaf."
+    ],
+    "indirect_reference_turns": [
+      "I have a hearing condition."
+    ],
+    "wrong_override_turns": [
+      "I have perfect hearing."
+    ],
+    "query_turns": [
+      "Do you have any hearing issues?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:2043",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "three kids",
+    "anchor_turns": [
+      "I have to take care of my three kids."
+    ],
+    "indirect_reference_turns": [
+      "I'm a busy parent."
+    ],
+    "wrong_override_turns": [
+      "I have two children."
+    ],
+    "query_turns": [
+      "How many kids do you have?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:2765",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "surfing",
+    "anchor_turns": [
+      "Surfing is what I really like."
+    ],
+    "indirect_reference_turns": [
+      "I enjoy a water sport."
+    ],
+    "wrong_override_turns": [
+      "I really like skiing."
+    ],
+    "query_turns": [
+      "What sport do you really like?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:8620",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "high school",
+    "anchor_turns": [
+      "I am in high school."
+    ],
+    "indirect_reference_turns": [
+      "I'm still a teenage student."
+    ],
+    "wrong_override_turns": [
+      "I'm in college."
+    ],
+    "query_turns": [
+      "What level of school are you in?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:8232",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "Socks",
+    "anchor_turns": [
+      "My dog is named Socks."
+    ],
+    "indirect_reference_turns": [
+      "My pet has an unusual name."
+    ],
+    "wrong_override_turns": [
+      "My dog is named Buddy."
+    ],
+    "query_turns": [
+      "What is your dog's name?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:3504",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "Italian Americans",
+    "anchor_turns": [
+      "My folks are 1st generation Italian Americans."
+    ],
+    "indirect_reference_turns": [
+      "My family has European heritage."
+    ],
+    "wrong_override_turns": [
+      "My family is Irish American."
+    ],
+    "query_turns": [
+      "What is your family's background?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:2881",
+    "anchor_type": "text",
+    "anchor_category": "event_experience",
+    "answer": "bought a house",
+    "anchor_turns": [
+      "I'm driving to my house that I just bought."
+    ],
+    "indirect_reference_turns": [
+      "I recently became a homeowner."
+    ],
+    "wrong_override_turns": [
+      "I'm renting an apartment."
+    ],
+    "query_turns": [
+      "Did you recently buy or rent your home?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:1664",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "tofu",
+    "anchor_turns": [
+      "I love tofu."
+    ],
+    "indirect_reference_turns": [
+      "I enjoy plant-based protein."
+    ],
+    "wrong_override_turns": [
+      "I love steak."
+    ],
+    "query_turns": [
+      "What food do you love?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:991",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "seven years old",
+    "anchor_turns": [
+      "I am seven years old."
+    ],
+    "indirect_reference_turns": [
+      "I'm in elementary school."
+    ],
+    "wrong_override_turns": [
+      "I am ten years old."
+    ],
+    "query_turns": [
+      "How old are you?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:7248",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "2000s indie",
+    "anchor_turns": [
+      "I love music, especially 2000s indie."
+    ],
+    "indirect_reference_turns": [
+      "I like alternative music from a specific era."
+    ],
+    "wrong_override_turns": [
+      "I mostly listen to 90s grunge."
+    ],
+    "query_turns": [
+      "What kind of music do you love?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:3396",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "Deon",
+    "anchor_turns": [
+      "My name is Deon."
+    ],
+    "indirect_reference_turns": [
+      "He introduced himself."
+    ],
+    "wrong_override_turns": [
+      "His name is Dean."
+    ],
+    "query_turns": [
+      "What is your name?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:4695",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "Drake",
+    "anchor_turns": [
+      "I'm making pizza and listening to Drake."
+    ],
+    "indirect_reference_turns": [
+      "I enjoy a popular hip-hop artist."
+    ],
+    "wrong_override_turns": [
+      "I'm listening to Kanye West."
+    ],
+    "query_turns": [
+      "Who are you listening to?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:5114",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "46",
+    "anchor_turns": [
+      "My age is 46."
+    ],
+    "indirect_reference_turns": [
+      "I'm middle-aged."
+    ],
+    "wrong_override_turns": [
+      "I'm 52 years old."
+    ],
+    "query_turns": [
+      "How old are you?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:5424",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "train horses",
+    "anchor_turns": [
+      "I write and I train horses."
+    ],
+    "indirect_reference_turns": [
+      "I work with animals."
+    ],
+    "wrong_override_turns": [
+      "I train dogs."
+    ],
+    "query_turns": [
+      "What animals do you train?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:3421",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "horses",
+    "anchor_turns": [
+      "I have a bunch of horses."
+    ],
+    "indirect_reference_turns": [
+      "I own several large animals."
+    ],
+    "wrong_override_turns": [
+      "I have a bunch of cattle."
+    ],
+    "query_turns": [
+      "What animals do you own?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:8079",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "five siblings",
+    "anchor_turns": [
+      "I have five other siblings."
+    ],
+    "indirect_reference_turns": [
+      "I come from a big family."
+    ],
+    "wrong_override_turns": [
+      "I have two siblings."
+    ],
+    "query_turns": [
+      "How many siblings do you have?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:1927",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "60 hours",
+    "anchor_turns": [
+      "I work over 60 hours a week."
+    ],
+    "indirect_reference_turns": [
+      "I have a very demanding work schedule."
+    ],
+    "wrong_override_turns": [
+      "I work about 40 hours a week."
+    ],
+    "query_turns": [
+      "How many hours a week do you work?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:5870",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "science",
+    "anchor_turns": [
+      "I like science a lot, so those classes are good."
+    ],
+    "indirect_reference_turns": [
+      "My favorite subjects are STEM-related."
+    ],
+    "wrong_override_turns": [
+      "I prefer English class."
+    ],
+    "query_turns": [
+      "What subject do you like at school?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:6595",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "dentist",
+    "anchor_turns": [
+      "I'm in school hoping to become a dentist."
+    ],
+    "indirect_reference_turns": [
+      "I'm studying to work in healthcare."
+    ],
+    "wrong_override_turns": [
+      "I want to become a doctor."
+    ],
+    "query_turns": [
+      "What profession are you studying for?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:4950",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "Maddie",
+    "anchor_turns": [
+      "My dog is named Maddie."
+    ],
+    "indirect_reference_turns": [
+      "I have a pet with a human name."
+    ],
+    "wrong_override_turns": [
+      "My dog is named Bella."
+    ],
+    "query_turns": [
+      "What is your dog's name?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:1777",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "Chicago",
+    "anchor_turns": [
+      "My single mom raised us in the Chicago projects."
+    ],
+    "indirect_reference_turns": [
+      "I grew up in a big Midwestern city."
+    ],
+    "wrong_override_turns": [
+      "I grew up in Detroit."
+    ],
+    "query_turns": [
+      "Where did you grow up?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:3470",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "folk music",
+    "anchor_turns": [
+      "I like folk music."
+    ],
+    "indirect_reference_turns": [
+      "I enjoy acoustic, traditional-style music."
+    ],
+    "wrong_override_turns": [
+      "I like electronic music."
+    ],
+    "query_turns": [
+      "What kind of music do you like?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:5923",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "lactose intolerance",
+    "anchor_turns": [
+      "My lactose intolerance is bothering me today."
+    ],
+    "indirect_reference_turns": [
+      "I have a food sensitivity."
+    ],
+    "wrong_override_turns": [
+      "I have a gluten allergy."
+    ],
+    "query_turns": [
+      "What food intolerance do you have?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:7935",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "sausages",
+    "anchor_turns": [
+      "I like eating big sausages. That's my favorite."
+    ],
+    "indirect_reference_turns": [
+      "I enjoy meat products."
+    ],
+    "wrong_override_turns": [
+      "My favorite food is steak."
+    ],
+    "query_turns": [
+      "What is your favorite food?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:1059",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "epilepsy",
+    "anchor_turns": [
+      "I have never been able to drive. I have epilepsy."
+    ],
+    "indirect_reference_turns": [
+      "I have a medical condition that prevents me from driving."
+    ],
+    "wrong_override_turns": [
+      "I have poor eyesight."
+    ],
+    "query_turns": [
+      "Why can't you drive?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:7117",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "35000",
+    "anchor_turns": [
+      "I owe 35,000 to Visa."
+    ],
+    "indirect_reference_turns": [
+      "I have significant credit card debt."
+    ],
+    "wrong_override_turns": [
+      "I owe about 10,000 dollars."
+    ],
+    "query_turns": [
+      "How much do you owe to Visa?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:5706",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "Justin Bieber",
+    "anchor_turns": [
+      "I like to hike, especially if I can listen to Justin Bieber."
+    ],
+    "indirect_reference_turns": [
+      "I listen to a famous pop star while outdoors."
+    ],
+    "wrong_override_turns": [
+      "I listen to Taylor Swift on hikes."
+    ],
+    "query_turns": [
+      "Who do you like to listen to while hiking?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:7948",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "roses",
+    "anchor_turns": [
+      "They let me decorate the cafe with roses and orange tablecloths."
+    ],
+    "indirect_reference_turns": [
+      "I added some personal touches to my workplace."
+    ],
+    "wrong_override_turns": [
+      "I decorated with sunflowers."
+    ],
+    "query_turns": [
+      "What flowers did you use to decorate the cafe?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:6586",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "anime",
+    "anchor_turns": [
+      "I've just been watching some anime."
+    ],
+    "indirect_reference_turns": [
+      "I enjoy Japanese animation."
+    ],
+    "wrong_override_turns": [
+      "I've been watching documentaries."
+    ],
+    "query_turns": [
+      "What have you been watching?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:1436",
+    "anchor_type": "text",
+    "anchor_category": "event_experience",
+    "answer": "mountain biking",
+    "anchor_turns": [
+      "I broke my arm in a mountain biking accident."
+    ],
+    "indirect_reference_turns": [
+      "I got hurt doing an outdoor sport."
+    ],
+    "wrong_override_turns": [
+      "I fell while skateboarding."
+    ],
+    "query_turns": [
+      "How did you break your arm?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:5642",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "fisherman",
+    "anchor_turns": [
+      "I am a fisherman."
+    ],
+    "indirect_reference_turns": [
+      "I work on the water."
+    ],
+    "wrong_override_turns": [
+      "I'm a sailor."
+    ],
+    "query_turns": [
+      "What is your occupation?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:8205",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "Bill",
+    "anchor_turns": [
+      "I am William but my nickname is Bill."
+    ],
+    "indirect_reference_turns": [
+      "He goes by a shortened version of his name."
+    ],
+    "wrong_override_turns": [
+      "His nickname is Will."
+    ],
+    "query_turns": [
+      "What is your nickname?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:5519",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "office manager",
+    "anchor_turns": [
+      "I am an office manager."
+    ],
+    "indirect_reference_turns": [
+      "I work in administration."
+    ],
+    "wrong_override_turns": [
+      "I'm a receptionist."
+    ],
+    "query_turns": [
+      "What is your job?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:3450",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "pistachio ice cream",
+    "anchor_turns": [
+      "I personally love pistachio ice cream."
+    ],
+    "indirect_reference_turns": [
+      "I have a favorite frozen dessert flavor."
+    ],
+    "wrong_override_turns": [
+      "I love chocolate ice cream."
+    ],
+    "query_turns": [
+      "What is your favorite ice cream flavor?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:7981",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "vet's office",
+    "anchor_turns": [
+      "I work at the vet's office."
+    ],
+    "indirect_reference_turns": [
+      "I work with animals professionally."
+    ],
+    "wrong_override_turns": [
+      "I work at a hospital."
+    ],
+    "query_turns": [
+      "Where do you work?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:2997",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "brown belt",
+    "anchor_turns": [
+      "I am a brown belt in martial arts."
+    ],
+    "indirect_reference_turns": [
+      "I'm at an advanced level in martial arts."
+    ],
+    "wrong_override_turns": [
+      "I'm a black belt."
+    ],
+    "query_turns": [
+      "What belt level are you?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:3245",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "snow and cold",
+    "anchor_turns": [
+      "I just love the snow and the cold."
+    ],
+    "indirect_reference_turns": [
+      "Winter is my favorite season."
+    ],
+    "wrong_override_turns": [
+      "I hate cold weather."
+    ],
+    "query_turns": [
+      "How do you feel about winter weather?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:1021",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "first grade",
+    "anchor_turns": [
+      "I teach first grade."
+    ],
+    "indirect_reference_turns": [
+      "I work with young children."
+    ],
+    "wrong_override_turns": [
+      "I teach fifth grade."
+    ],
+    "query_turns": [
+      "What grade do you teach?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:2130",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "McDonald's",
+    "anchor_turns": [
+      "I am a manager at McDonald's."
+    ],
+    "indirect_reference_turns": [
+      "I manage a fast food restaurant."
+    ],
+    "wrong_override_turns": [
+      "I work at Burger King."
+    ],
+    "query_turns": [
+      "Where do you work as a manager?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:1578",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "the Rolling Stones",
+    "anchor_turns": [
+      "My favorite band is the Rolling Stones."
+    ],
+    "indirect_reference_turns": [
+      "I love a legendary British rock band."
+    ],
+    "wrong_override_turns": [
+      "My favorite band is the Beatles."
+    ],
+    "query_turns": [
+      "What is your favorite band?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:4199",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "Sears",
+    "anchor_turns": [
+      "I work at Sears selling washers."
+    ],
+    "indirect_reference_turns": [
+      "I work at a department store."
+    ],
+    "wrong_override_turns": [
+      "I work at Home Depot."
+    ],
+    "query_turns": [
+      "Where do you work?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:2848",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "Nevada",
+    "anchor_turns": [
+      "I am a pilot from Nevada, currently in New Mexico."
+    ],
+    "indirect_reference_turns": [
+      "I'm originally from a western US state."
+    ],
+    "wrong_override_turns": [
+      "I'm from Arizona."
+    ],
+    "query_turns": [
+      "Where are you from originally?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:8935",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "McDonald's",
+    "anchor_turns": [
+      "McDonald's is where I work."
+    ],
+    "indirect_reference_turns": [
+      "I work at a fast food chain."
+    ],
+    "wrong_override_turns": [
+      "I work at Wendy's."
+    ],
+    "query_turns": [
+      "Where do you work?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:7551",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "music industry",
+    "anchor_turns": [
+      "I'm a student trying to get my music industry degree."
+    ],
+    "indirect_reference_turns": [
+      "I'm studying something related to entertainment."
+    ],
+    "wrong_override_turns": [
+      "I'm getting a degree in business."
+    ],
+    "query_turns": [
+      "What degree are you pursuing?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:5319",
+    "anchor_type": "text",
+    "anchor_category": "event_experience",
+    "answer": "farm foreclosed",
+    "anchor_turns": [
+      "My farm was foreclosed on."
+    ],
+    "indirect_reference_turns": [
+      "I lost my agricultural property."
+    ],
+    "wrong_override_turns": [
+      "I sold my farm voluntarily."
+    ],
+    "query_turns": [
+      "What happened to your farm?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:1261",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "veterinarian",
+    "anchor_turns": [
+      "I grew up on a farm and now work as a veterinarian."
+    ],
+    "indirect_reference_turns": [
+      "I work in animal healthcare."
+    ],
+    "wrong_override_turns": [
+      "I'm a farmer like my parents."
+    ],
+    "query_turns": [
+      "What do you do for work now?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:3016",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "computer science",
+    "anchor_turns": [
+      "I'm pursuing a bachelor's in computer science."
+    ],
+    "indirect_reference_turns": [
+      "I'm studying a technical field."
+    ],
+    "wrong_override_turns": [
+      "I'm studying electrical engineering."
+    ],
+    "query_turns": [
+      "What are you studying in college?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:2823",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "the Beatles",
+    "anchor_turns": [
+      "I'm listening to the Beatles and relaxing."
+    ],
+    "indirect_reference_turns": [
+      "I'm enjoying some classic rock."
+    ],
+    "wrong_override_turns": [
+      "I'm listening to the Rolling Stones."
+    ],
+    "query_turns": [
+      "What band are you listening to?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:7652",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "British authors",
+    "anchor_turns": [
+      "I love reading British authors to my little sister."
+    ],
+    "indirect_reference_turns": [
+      "I enjoy literature from the UK."
+    ],
+    "wrong_override_turns": [
+      "I prefer American authors."
+    ],
+    "query_turns": [
+      "What kind of authors do you like to read?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:1616",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "fantasy NFL",
+    "anchor_turns": [
+      "I am in the NFL fantasy league."
+    ],
+    "indirect_reference_turns": [
+      "I play an online sports game."
+    ],
+    "wrong_override_turns": [
+      "I play fantasy basketball."
+    ],
+    "query_turns": [
+      "What fantasy league are you in?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:2466",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "purple",
+    "anchor_turns": [
+      "I just finished dyeing my hair purple."
+    ],
+    "indirect_reference_turns": [
+      "I recently changed my hair color."
+    ],
+    "wrong_override_turns": [
+      "I dyed my hair blue."
+    ],
+    "query_turns": [
+      "What color did you dye your hair?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:7252",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "statistics",
+    "anchor_turns": [
+      "I went to college. I have a statistics degree."
+    ],
+    "indirect_reference_turns": [
+      "I studied a math-related field."
+    ],
+    "wrong_override_turns": [
+      "I have an economics degree."
+    ],
+    "query_turns": [
+      "What is your college degree in?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:6855",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "retail store",
+    "anchor_turns": [
+      "I am working at a retail store."
+    ],
+    "indirect_reference_turns": [
+      "My job involves selling things to customers."
+    ],
+    "wrong_override_turns": [
+      "I work at a warehouse."
+    ],
+    "query_turns": [
+      "Where do you work?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:1081",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "Bruno Mars",
+    "anchor_turns": [
+      "I am a huge Bruno Mars fan."
+    ],
+    "indirect_reference_turns": [
+      "I love a popular pop and R&B artist."
+    ],
+    "wrong_override_turns": [
+      "I'm a big fan of Ed Sheeran."
+    ],
+    "query_turns": [
+      "Who is your favorite music artist?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:8356",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "viking lifestyle",
+    "anchor_turns": [
+      "I live a viking lifestyle."
+    ],
+    "indirect_reference_turns": [
+      "I follow an unconventional way of life."
+    ],
+    "wrong_override_turns": [
+      "I live a minimalist lifestyle."
+    ],
+    "query_turns": [
+      "What kind of lifestyle do you live?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:2723",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "tea",
+    "anchor_turns": [
+      "I'm drinking tea. It's my favorite."
+    ],
+    "indirect_reference_turns": [
+      "I enjoy a warm beverage."
+    ],
+    "wrong_override_turns": [
+      "Coffee is my favorite drink."
+    ],
+    "query_turns": [
+      "What is your favorite drink?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:6652",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "Rhode Island",
+    "anchor_turns": [
+      "I go to school in Rhode Island studying journalism."
+    ],
+    "indirect_reference_turns": [
+      "I'm in a small New England state for college."
+    ],
+    "wrong_override_turns": [
+      "I go to school in Connecticut."
+    ],
+    "query_turns": [
+      "Where do you go to school?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:4647",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "Halo 3",
+    "anchor_turns": [
+      "My personal favorite video game is Halo 3."
+    ],
+    "indirect_reference_turns": [
+      "I love a classic first-person shooter."
+    ],
+    "wrong_override_turns": [
+      "My favorite game is Call of Duty."
+    ],
+    "query_turns": [
+      "What is your favorite video game?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:7455",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "army ranger",
+    "anchor_turns": [
+      "I am an army ranger."
+    ],
+    "indirect_reference_turns": [
+      "I serve in an elite military unit."
+    ],
+    "wrong_override_turns": [
+      "I'm in the Marines."
+    ],
+    "query_turns": [
+      "What branch/unit of the military are you in?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:1125",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "tennis",
+    "anchor_turns": [
+      "I like playing tennis."
+    ],
+    "indirect_reference_turns": [
+      "I enjoy a racket sport."
+    ],
+    "wrong_override_turns": [
+      "I like playing basketball."
+    ],
+    "query_turns": [
+      "What sport do you like to play?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:1673",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "the army",
+    "anchor_turns": [
+      "I am home on leave from the army."
+    ],
+    "indirect_reference_turns": [
+      "I'm in the military taking a break."
+    ],
+    "wrong_override_turns": [
+      "I'm in the navy."
+    ],
+    "query_turns": [
+      "Which branch of the military are you in?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:7050",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "Algeria",
+    "anchor_turns": [
+      "My family comes from Algeria."
+    ],
+    "indirect_reference_turns": [
+      "My family is from North Africa."
+    ],
+    "wrong_override_turns": [
+      "My family is from Morocco."
+    ],
+    "query_turns": [
+      "Where does your family come from?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:761",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "med school",
+    "anchor_turns": [
+      "I am in my second year of med school."
+    ],
+    "indirect_reference_turns": [
+      "I'm studying to become a doctor."
+    ],
+    "wrong_override_turns": [
+      "I'm in law school."
+    ],
+    "query_turns": [
+      "What are you studying?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:2289",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "deliver packages",
+    "anchor_turns": [
+      "I am a crazy cat lady and deliver packages."
+    ],
+    "indirect_reference_turns": [
+      "I work in logistics."
+    ],
+    "wrong_override_turns": [
+      "I'm a mail carrier."
+    ],
+    "query_turns": [
+      "What do you do for work?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:5332",
+    "anchor_type": "text",
+    "anchor_category": "event_experience",
+    "answer": "won the lottery",
+    "anchor_turns": [
+      "I get to enjoy every nice day since I won the lottery."
+    ],
+    "indirect_reference_turns": [
+      "I don't have to work anymore."
+    ],
+    "wrong_override_turns": [
+      "I inherited a lot of money."
+    ],
+    "query_turns": [
+      "How did you get your free time?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:1722",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "drug consultant",
+    "anchor_turns": [
+      "I'm a drug consultant. I also own a minor business."
+    ],
+    "indirect_reference_turns": [
+      "I work in the pharmaceutical field."
+    ],
+    "wrong_override_turns": [
+      "I'm a financial consultant."
+    ],
+    "query_turns": [
+      "What kind of consultant are you?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:4225",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "football",
+    "anchor_turns": [
+      "I love football."
+    ],
+    "indirect_reference_turns": [
+      "I'm a big fan of a popular American sport."
+    ],
+    "wrong_override_turns": [
+      "I love basketball."
+    ],
+    "query_turns": [
+      "What sport do you love?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:3978",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "pancakes",
+    "anchor_turns": [
+      "I like to make pancakes and waffles for breakfast."
+    ],
+    "indirect_reference_turns": [
+      "I enjoy making classic breakfast items."
+    ],
+    "wrong_override_turns": [
+      "I usually make eggs and bacon."
+    ],
+    "query_turns": [
+      "What do you like to make for breakfast?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:4721",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "insurance broker",
+    "anchor_turns": [
+      "I am an insurance broker."
+    ],
+    "indirect_reference_turns": [
+      "I work in the financial services industry."
+    ],
+    "wrong_override_turns": [
+      "I'm a real estate agent."
+    ],
+    "query_turns": [
+      "What is your job?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:7196",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "tap dance",
+    "anchor_turns": [
+      "I prefer to dance, specifically tap dance."
+    ],
+    "indirect_reference_turns": [
+      "I enjoy a rhythmic form of movement."
+    ],
+    "wrong_override_turns": [
+      "I prefer ballet."
+    ],
+    "query_turns": [
+      "What kind of dance do you prefer?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:1533",
+    "anchor_type": "text",
+    "anchor_category": "event_experience",
+    "answer": "a slave",
+    "anchor_turns": [
+      "Believe it or not, I was a slave."
+    ],
+    "indirect_reference_turns": [
+      "I was held against my will in the past."
+    ],
+    "wrong_override_turns": [
+      "I was in prison."
+    ],
+    "query_turns": [
+      "What were you before you were free?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:5080",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "plumber",
+    "anchor_turns": [
+      "I am the best bilingual plumber you'll meet."
+    ],
+    "indirect_reference_turns": [
+      "I fix pipes for a living."
+    ],
+    "wrong_override_turns": [
+      "I'm an electrician."
+    ],
+    "query_turns": [
+      "What is your profession?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:6600",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "social worker",
+    "anchor_turns": [
+      "My mom is a social worker."
+    ],
+    "indirect_reference_turns": [
+      "My mom works in human services."
+    ],
+    "wrong_override_turns": [
+      "My mom is a teacher."
+    ],
+    "query_turns": [
+      "What does your mom do for work?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:2032",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "green",
+    "anchor_turns": [
+      "My eye color is green."
+    ],
+    "indirect_reference_turns": [
+      "I have an uncommon eye color."
+    ],
+    "wrong_override_turns": [
+      "My eyes are blue."
+    ],
+    "query_turns": [
+      "What color are your eyes?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:7767",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "punk band",
+    "anchor_turns": [
+      "I sing in a punk band."
+    ],
+    "indirect_reference_turns": [
+      "I'm in a music group."
+    ],
+    "wrong_override_turns": [
+      "I sing in a jazz band."
+    ],
+    "query_turns": [
+      "What kind of band do you sing in?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:330",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "sell on Facebook",
+    "anchor_turns": [
+      "I sell clothes and items on Facebook for a living."
+    ],
+    "indirect_reference_turns": [
+      "I make money through online sales."
+    ],
+    "wrong_override_turns": [
+      "I work at a clothing store."
+    ],
+    "query_turns": [
+      "What do you do for a living?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:2311",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "salesman",
+    "anchor_turns": [
+      "My husband was a salesman until he died."
+    ],
+    "indirect_reference_turns": [
+      "My late husband worked in sales."
+    ],
+    "wrong_override_turns": [
+      "He was an accountant."
+    ],
+    "query_turns": [
+      "What did your husband do for work?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:4016",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "social sciences",
+    "anchor_turns": [
+      "I am studying for my master's in social sciences."
+    ],
+    "indirect_reference_turns": [
+      "I'm pursuing a graduate degree."
+    ],
+    "wrong_override_turns": [
+      "I'm studying for my master's in engineering."
+    ],
+    "query_turns": [
+      "What master's degree are you studying for?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:4470",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "Florida",
+    "anchor_turns": [
+      "I live in Florida because I hate cold."
+    ],
+    "indirect_reference_turns": [
+      "I chose a warm southern state to live in."
+    ],
+    "wrong_override_turns": [
+      "I live in California."
+    ],
+    "query_turns": [
+      "Where do you live?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:163",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "Oakville, New York",
+    "anchor_turns": [
+      "I teach 5th graders in Oakville, New York."
+    ],
+    "indirect_reference_turns": [
+      "I work at a school in upstate New York."
+    ],
+    "wrong_override_turns": [
+      "I teach in Albany, New York."
+    ],
+    "query_turns": [
+      "Where do you teach?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:8609",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "Jasper",
+    "anchor_turns": [
+      "I live in the east with my cat, Jasper."
+    ],
+    "indirect_reference_turns": [
+      "I have a pet at home."
+    ],
+    "wrong_override_turns": [
+      "My cat's name is Oliver."
+    ],
+    "query_turns": [
+      "What is your cat's name?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:497",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "23",
+    "anchor_turns": [
+      "I'm feeding my cats, all 23 of them."
+    ],
+    "indirect_reference_turns": [
+      "I have a very large number of pets."
+    ],
+    "wrong_override_turns": [
+      "I have 5 cats."
+    ],
+    "query_turns": [
+      "How many cats do you have?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:7062",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "3 jobs",
+    "anchor_turns": [
+      "I've had 3 jobs for 6 years."
+    ],
+    "indirect_reference_turns": [
+      "I work multiple positions."
+    ],
+    "wrong_override_turns": [
+      "I have 2 jobs."
+    ],
+    "query_turns": [
+      "How many jobs do you have?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:5983",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "Baltimore Orioles",
+    "anchor_turns": [
+      "I'm on the Baltimore Orioles baseball team."
+    ],
+    "indirect_reference_turns": [
+      "I play professional baseball."
+    ],
+    "wrong_override_turns": [
+      "I play for the New York Mets."
+    ],
+    "query_turns": [
+      "Which baseball team are you on?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:8323",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "Phoenix, Arizona",
+    "anchor_turns": [
+      "I work for the newspaper in Phoenix, Arizona."
+    ],
+    "indirect_reference_turns": [
+      "I work in media in a southwestern city."
+    ],
+    "wrong_override_turns": [
+      "I work at a paper in Tucson."
+    ],
+    "query_turns": [
+      "Where is the newspaper you work for?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:2846",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "electric violin",
+    "anchor_turns": [
+      "I'm practicing my electric violin right now."
+    ],
+    "indirect_reference_turns": [
+      "I play a string instrument."
+    ],
+    "wrong_override_turns": [
+      "I'm playing the electric guitar."
+    ],
+    "query_turns": [
+      "What instrument are you practicing?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:8056",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "LA",
+    "anchor_turns": [
+      "I just got back from LA last week."
+    ],
+    "indirect_reference_turns": [
+      "I recently traveled to a big city."
+    ],
+    "wrong_override_turns": [
+      "I was in New York last week."
+    ],
+    "query_turns": [
+      "Where did you travel to recently?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:6223",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "California",
+    "anchor_turns": [
+      "Me and my 3 children are in California."
+    ],
+    "indirect_reference_turns": [
+      "I live on the west coast with my kids."
+    ],
+    "wrong_override_turns": [
+      "I live in Oregon."
+    ],
+    "query_turns": [
+      "Where do you and your children live?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:6823",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "twin boys",
+    "anchor_turns": [
+      "I just put my twin boys to bed."
+    ],
+    "indirect_reference_turns": [
+      "My children are the same age."
+    ],
+    "wrong_override_turns": [
+      "I have twin girls."
+    ],
+    "query_turns": [
+      "What children do you have?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:8772",
+    "anchor_type": "text",
+    "anchor_category": "location",
+    "answer": "Florida",
+    "anchor_turns": [
+      "It's very hot here. I live in Florida."
+    ],
+    "indirect_reference_turns": [
+      "I live in a warm southeastern state."
+    ],
+    "wrong_override_turns": [
+      "I live in Georgia."
+    ],
+    "query_turns": [
+      "Where do you live?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:5225",
+    "anchor_type": "text",
+    "anchor_category": "preference",
+    "answer": "Barbie dolls",
+    "anchor_turns": [
+      "I am playing with my Barbie dolls."
+    ],
+    "indirect_reference_turns": [
+      "I enjoy playing with toys."
+    ],
+    "wrong_override_turns": [
+      "I'm playing with Lego."
+    ],
+    "query_turns": [
+      "What are you playing with?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:4473",
+    "anchor_type": "text",
+    "anchor_category": "event_experience",
+    "answer": "plastic surgeon",
+    "anchor_turns": [
+      "I have a consultation with a plastic surgeon today."
+    ],
+    "indirect_reference_turns": [
+      "I have a medical appointment today."
+    ],
+    "wrong_override_turns": [
+      "I'm seeing a dermatologist."
+    ],
+    "query_turns": [
+      "What kind of doctor appointment do you have today?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:3642",
+    "anchor_type": "text",
+    "anchor_category": "object_attribute",
+    "answer": "five pies",
+    "anchor_turns": [
+      "I just finished baking five pies."
+    ],
+    "indirect_reference_turns": [
+      "I've been busy in the kitchen today."
+    ],
+    "wrong_override_turns": [
+      "I baked three cakes."
+    ],
+    "query_turns": [
+      "How many pies did you bake?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:6770",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "building drones",
+    "anchor_turns": [
+      "I had a long day at the office building drones."
+    ],
+    "indirect_reference_turns": [
+      "I work in tech manufacturing."
+    ],
+    "wrong_override_turns": [
+      "I work on building robots."
+    ],
+    "query_turns": [
+      "What do you build at work?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:1643",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "cosmetics",
+    "anchor_turns": [
+      "I teach K-6th and also do cosmetics on the side."
+    ],
+    "indirect_reference_turns": [
+      "I have a side business in beauty products."
+    ],
+    "wrong_override_turns": [
+      "My side job is tutoring."
+    ],
+    "query_turns": [
+      "What do you do on the side?"
+    ]
+  },
+  {
+    "dialogue_id": "persona:2879",
+    "anchor_type": "text",
+    "anchor_category": "person_identity",
+    "answer": "Herbert",
+    "anchor_turns": [
+      "I am in an open relationship because of my boyfriend Herbert."
+    ],
+    "indirect_reference_turns": [
+      "My partner has an old-fashioned name."
+    ],
+    "wrong_override_turns": [
+      "My boyfriend's name is Harold."
+    ],
+    "query_turns": [
+      "What is your boyfriend's name?"
+    ]
+  }
+]

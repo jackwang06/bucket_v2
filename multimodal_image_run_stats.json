@@ -1,0 +1,25 @@
+{
+  "total_dialogues": 9000,
+  "turn3_image_candidates": 1111,
+  "seed_records": 10,
+  "final_records": 17,
+  "added_new_records": 7,
+  "stats": {
+    "turn3_image_candidates": 1111,
+    "skip_no_high_confidence_rule": 842,
+    "skip_multi_subject": 180,
+    "skip_meta_or_textual_image": 70,
+    "already_in_seed": 10,
+    "added_new_records": 7,
+    "skip_download_failed": 2
+  },
+  "failure_examples": {
+    "no_high_confidence_rule": "bst:4734",
+    "multi_subject": "bst:395",
+    "meta_or_textual_image": "daily:11509",
+    "not_jpeg: */*;charset=utf-8": "daily:8943",
+    "request_failed: HTTPSConnectionPool(host='odis.homeaway.com', port=443): Max retries exceeded with url: /mda01/03dc41e8-e925-407e-841a-72be6e0e3895.1.10 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))": "bst:4541"
+  },
+  "image_files": 17,
+  "zip_exists": true
+}
